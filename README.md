@@ -23,7 +23,8 @@
 
 ## **🚀 Proyectos Destacados**  
 - **[Portfolio](https://antoniomelino.github.io/Portfolio/#)** - Mi portfolio.  
-- **[GamerZoneApp](https://gamer-zone-app.vercel.app/)** - Proyecto con React.  
+- **[GamerZoneApp](https://gamer-zone-app.vercel.app/)** - Proyecto con React.
+- **[Verificador de fotos](https://verificador-de-fotos.web.app/)** - Proyecto con HTML, CSS y Javascript.
 
 ## **📫 Contacto**  
 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Si deseas contactarme, no dudes en escribirme:  

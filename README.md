@@ -2,7 +2,7 @@
 
 ¡Hola Mundo! Soy **Antonio Melino**, un apasionado desarrollador de software. Mi enfoque principal es aprender continuamente, mejorar mis habilidades y contribuir al éxito de proyectos innovadores.    
 
-## **Lenguajes y tecnologías**  
+## **🛠️ Lenguajes y tecnologías**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -15,19 +15,21 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-### **Conocimientos Adicionales**  
+### **📚 Conocimientos Adicionales**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-## **Proyectos Destacados**  
+## **🚀 Proyectos Destacados**  
 - **[Portfolio](https://antoniomelino.github.io/Portfolio/#)** - Mi portfolio.  
 - **[GamerZoneApp](https://gamer-zone-app.vercel.app/)** - Proyecto con React.  
 
-## **Contacto**  
+## **📫 Contacto**  
 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Si deseas contactarme, no dudes en escribirme:  
-- **Email**: antoniomelino1997@gmail.com
-- **Linkedin** https://www.linkedin.com/in/antonio-melino-82a885213/
+- **📧 Email**: antoniomelino1997@gmail.com
+- **🔗 Linkedin** https://www.linkedin.com/in/antonio-melino-82a885213/
 
-### **¡Gracias por visitar mi perfil!**  
+### **¡Gracias por visitar mi perfil!** 
+
+

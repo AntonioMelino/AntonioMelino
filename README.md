@@ -31,10 +31,16 @@
 
 ---
 
-## **🚀 Proyectos Destacados**  
-- **[Portfolio](https://portfolio-antonio-melino.vercel.app/)** - Mi portfolio.  
-- **[GamerZoneApp](https://gamer-zone-app.vercel.app/)** - Proyecto con React.
-- **[Verificador de fotos](https://verificador-de-fotos.web.app/)** - Proyecto con HTML, CSS y Javascript.
+## **🚀 Proyectos Destacados**
+
+### **[Portfolio Personal](https://portfolio-antonio-melino.vercel.app/)**
+Sitio web profesional desarrollado con **React** y desplegado en **Vercel**. Presenta mi experiencia, habilidades y proyectos de manera moderna y responsive.
+
+### **[Gamer Zone App](https://gamer-zone-app.vercel.app/)**
+Tienda e-commerce gamer completa construida con **React** y **Firebase**. Incluye autenticación de usuarios, carrito de compras, filtros por categoría y panel de administración. Diseño responsive con **Material-UI**.
+
+### **[Verificador de Fotos para Auditorías](https://verificador-de-fotos.web.app/)**
+Herramienta web para auditorías visuales desarrollada con **HTML, CSS y JavaScript**. Permite cargar imágenes, identificar desvíos, convertir PDF a JPG y exportar resultados a Excel. Utiliza **SweetAlert2** y **JSZip**.
 
 ## **📫 Contacto**  
 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Si deseas contactarme, no dudes en escribirme:  

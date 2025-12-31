@@ -39,6 +39,9 @@ Sitio web profesional desarrollado con **React** y desplegado en **Vercel**. Pre
 ### **[Gamer Zone App](https://gamer-zone-app.vercel.app/)**
 Tienda e-commerce gamer completa construida con **React** y **Firebase**. Incluye autenticación de usuarios, carrito de compras, filtros por categoría y panel de administración. Diseño responsive con **Material-UI**.
 
+### **[Techos Nass](https://techos-nass.vercel.app/)**
+Página web corporativa moderna para una empresa especializada en techos. Desarrollada con **TypeScript** y **Next.js**, incluye sistema de reseñas de Google, mapa interactivo con ubicación del negocio, formulario de contacto que envía mensajes directamente a WhatsApp y diseño completamente responsive. Desplegado en **Vercel**.
+
 ### **[Verificador de Fotos para Auditorías](https://verificador-de-fotos.web.app/)**
 Herramienta web para auditorías visuales desarrollada con **HTML, CSS y JavaScript**. Permite cargar imágenes, identificar desvíos, convertir PDF a JPG y exportar resultados a Excel. Utiliza **SweetAlert2** y **JSZip**.
 

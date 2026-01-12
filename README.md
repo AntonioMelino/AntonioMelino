@@ -42,6 +42,9 @@ Tienda e-commerce gamer completa construida con **React** y **Firebase**. Incluy
 ### **[Techos Nass](https://techos-nass.vercel.app/)**
 Página web corporativa moderna para una empresa especializada en techos. Desarrollada con **TypeScript** y **Next.js**, incluye sistema de reseñas de Google, mapa interactivo con ubicación del negocio, formulario de contacto que envía mensajes directamente a WhatsApp y diseño completamente responsive. Desplegado en **Vercel**.
 
+### **[BSM Techos y Zinguería](https://bsm-techos-y-zingueria.vercel.app/)**
+Página web corporativa moderna para una empresa dedicada a trabajos de techos y zinguería. Desarrollada con **TypeScript** y **Next.js**, cuenta con formulario de contacto que envía mensajes directamente a WhatsApp, diseño completamente responsive y despliegue en **Vercel**.
+
 ### **[Verificador de Fotos para Auditorías](https://verificador-de-fotos.web.app/)**
 Herramienta web para auditorías visuales desarrollada con **HTML, CSS y JavaScript**. Permite cargar imágenes, identificar desvíos, convertir PDF a JPG y exportar resultados a Excel. Utiliza **SweetAlert2** y **JSZip**.
 

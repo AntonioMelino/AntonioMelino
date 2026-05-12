@@ -3,7 +3,7 @@
 Especializado en **React**, **Next.js** y **.NET** — llevo productos del diseño a producción.
 Integro IA en el flujo de desarrollo (Claude Code, GitHub Copilot) para maximizar velocidad y calidad.
 
-📍 Zona Norte GBA · Abierto a trabajo remoto
+📍 Zona Norte GBA · Abierto a trabajo remoto, híbrido o presencial.
 
 ---
 

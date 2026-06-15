@@ -1,9 +1,9 @@
 # Antonio Melino · Desarrollador Full Stack
 
 Especializado en **React**, **Next.js** y **.NET** — llevo productos del diseño a producción.
-Integro IA en el flujo de desarrollo (Claude Code, GitHub Copilot) para maximizar velocidad y calidad.
+Integro IA en el flujo de desarrollo (Claude Code, DeepSeek) para maximizar velocidad y calidad.
 
-📍 Zona Norte GBA · Abierto a trabajo remoto, híbrido o presencial.
+📍 Zona Norte GBA · Remoto · Híbrido · Presencial
 
 ---
 
@@ -13,9 +13,9 @@ Integro IA en el flujo de desarrollo (Claude Code, GitHub Copilot) para maximiza
 |---|---|
 | **Frontend** | React · Next.js · TypeScript · Tailwind CSS · Material UI |
 | **Backend** | .NET / .NET Core · Node.js · REST APIs · JWT · C# · Java |
-| **Base de datos** | MySQL · Firebase (Firestore) · Entity Framework |
-| **DevOps & Cloud** | Docker · AWS · Azure · Vercel · Git |
-| **IA & Herramientas** | Claude Code · GitHub Copilot · DeepSeek · Gemini |
+| **Base de datos** | PostgreSQL · MySQL · Firebase (Firestore) · Entity Framework |
+| **DevOps & Cloud** | Docker · AWS · Azure · Vercel · Railway · Git |
+| **IA & Herramientas** | Claude Code · DeepSeek |
 
 ---
 
@@ -23,6 +23,7 @@ Integro IA en el flujo de desarrollo (Claude Code, GitHub Copilot) para maximiza
 
 **Operador de Sistemas — Maxiconsumo S.A.** *(Jul 2018 – Presente)*
 Opero sistemas internos en Java para control de stock y logística. Automaticé análisis con Excel avanzado, reduciendo tiempos operativos.
+Ante la falta de una herramienta para el control de vencimientos, desarrollé **Vencix**: una app web fullstack interna que resolvió el seguimiento manual y colaborativo de productos próximos a vencer en toda la sucursal.
 
 **Analista de Datos — EMA Servicios** *(Oct 2024 – Oct 2025)*
 Diseñé una app web de auditoría fotográfica (PDF→JPG, filtrado, exportación a Excel) que eliminó por completo el proceso manual. Integré Firebase en tiempo real y generé reportes analíticos.
@@ -30,6 +31,20 @@ Diseñé una app web de auditoría fotográfica (PDF→JPG, filtrado, exportaci�
 ---
 
 ## 🚀 Proyectos
+
+### ⭐ Vencix — Sistema interno de control de vencimientos
+
+App web fullstack multi-usuario para Maxiconsumo S.A. que centraliza el seguimiento colaborativo de productos próximos a vencer en toda la sucursal.
+
+- Empleados registran vencimientos desde el celular con autocompletado de 8.500 artículos (lookup O(1) vía `Map`) y lector de código de barras por cámara
+- Clasificación automática en **CRÍTICO / PRÓXIMO / OK** con alertas visuales y sonoras
+- Panel admin con historial de retirados (soft-delete), módulo de Recepción y estadísticas con gráficos
+- Notificaciones en tiempo real (polling + badge + audio) · Dark mode completo · PWA instalable
+- Gestión de tareas con **GitHub Projects**
+
+**Stack:** ASP.NET Core 10 · React 19 · TypeScript · PostgreSQL (Supabase) · EF Core · JWT · Tailwind CSS v4 · Recharts · Railway + Vercel
+
+---
 
 | Proyecto | Stack | |
 |---|---|---|

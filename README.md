@@ -47,8 +47,10 @@ Integro IA en el flujo de desarrollo (Claude Code, DeepSeek) para maximizar velo
 
 | Proyecto | Stack | Descripción |
 |---|---|---|
-| **[Gamer Zone App](https://gamer-zone-app.vercel.app/)** | React · Firebase · MUI | E-commerce con auth JWT, carrito y panel admin |
-| **[Techos Nass](https://techos-nass.vercel.app/)** | Next.js · TypeScript · Tailwind | Landing con Google Maps y WhatsApp |
-| **[BSM Techos](https://bsm-techos-y-zingueria.vercel.app/)** | Next.js · TypeScript | Web corporativa responsive |
-| **[Verificador de Fotos](https://verificador-de-fotos.web.app/)** | JavaScript | Auditoría visual, PDF→JPG, exportación a Excel |
 | **[Portfolio](https://portfolio-antonio-melino.vercel.app/)** | React · Vercel | Sitio personal |
+| **[Bitácora](https://bitacora-travel.vercel.app/)** | ASP.NET Core · React · PostgreSQL | Organizador de viajes con autenticación y planificación por etapas |
+| **[Techos Nass](https://techos-nass.vercel.app/)** | Next.js · TypeScript · Tailwind | Landing page con Google Maps y WhatsApp |
+| **[Mi Cuaderno de Idiomas](https://mi-cuaderno-de-idiomas.vercel.app/)** | Vite · React · TypeScript · Tailwind | App para seguimiento público de progreso en idiomas |
+| **[Gamer Zone App](https://gamer-zone-app.vercel.app/)** | React · Firebase · MUI | E-commerce con auth JWT, carrito y panel admin |
+| **[Verificador de Fotos](https://verificador-de-fotos.web.app/)** | JavaScript | Auditoría visual, PDF→JPG, exportación a Excel |
+| **[BSM Techos](https://bsm-techos-y-zingueria.vercel.app/)** | Next.js · TypeScript | Web corporativa responsive |
